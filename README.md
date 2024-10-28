@@ -2,7 +2,7 @@
 playing around in WPF and thought of making a painting app, gonn see if i can make it WiiMote compatible so u can paint with a remote and maybe with a nunchuck
 will upload some stuff soon (hopefully) 
 
-!!! MUST DOWNLOAD .NET 8.0 Desktop Runtime (v8.0.10) TO RUN !!!
+# !!! MUST DOWNLOAD .NET 8.0 Desktop Runtime (v8.0.10) TO RUN !!!
 
 more boring details below: 
 
